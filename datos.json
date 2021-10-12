@@ -1,0 +1,57 @@
+{
+    "canciones": [{
+            "nombre": "Thriller",
+            "ruta": "./canciones/Thriller.mp3",
+            "reproducciones": 110,
+            "icono": "../portadas/thriller.jpg"
+        },
+        {
+            "nombre": "Ciudad Magica",
+            "ruta": "./canciones/CiudadMagica.mp3",
+            "reproducciones": 30,
+            "icono": "../portadas/CM.jpg"
+        },
+        {
+            "nombre": "Faded",
+            "ruta": "./canciones/faded.mp3",
+            "reproducciones": 20,
+            "icono": "../portadas/faded.jpg"
+        },
+        {
+            "nombre": "Hips don't lie",
+            "ruta": "./canciones/hdl.mp3",
+            "reproducciones": 80,
+            "icono": "../portadas/hdl.jpg"
+        },
+        {
+            "nombre": "Diva Virtual",
+            "ruta": "./canciones/DivaVirtual.mp3",
+            "reproducciones": 50,
+            "icono": "../portadas/dv.jpg"
+        },
+        {
+            "nombre": "Bad Romance",
+            "ruta": "./canciones/BadRomance.mp3",
+            "reproducciones": 70,
+            "icono": "../portadas/badr.jpg"
+        },
+        {
+            "nombre": "Rehab",
+            "ruta": "./canciones/Rehab.mp3",
+            "reproducciones": 60,
+            "icono": "../portadas/rehab.jpg"
+        },
+        {
+            "nombre": "Rolling in the Deep",
+            "ruta": "./canciones/Ritd.mp3",
+            "reproducciones": 90,
+            "icono": "../portadas/ritd.jpg"
+        },
+        {
+            "nombre": "Shape of You",
+            "ruta": "./canciones/ShofY.mp3",
+            "reproducciones": 40,
+            "icono": "../portadas/shofy.jpg"
+        }
+    ]
+}
